@@ -18,6 +18,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 * Tableau
 * Excel
 * SQL
-...
+
+  
 Feel free to explore the projects and reach out if you have any questions or collaboration opportunities!
 
